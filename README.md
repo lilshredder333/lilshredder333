@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lilshredder333
 - 👀 I’m interested in skateboarding and playing guitar!
-- 🌱 I’m currently learning Python Basics
 - 💞️ I’m looking to collaborate on fun beginner projects :)
 - 📫 How to reach me infonuriasinacento@gmail.com
 
